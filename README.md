@@ -37,8 +37,6 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
   </tr>
 </table>
 
-<br>
-
 ### ⚙️ Technologies
 
 <table>
@@ -65,8 +63,6 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
     <td align="center">PostgreSQL</td>
   </tr>
 </table>
-
-<br>
 
 ### 💻 Software
 
