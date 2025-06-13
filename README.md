@@ -11,70 +11,81 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 ## 🛠️ Technical Skills
 
 ### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"><br>C++
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="40"><br>C
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"><br>Python
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40"><br>Java
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="40"><br>Bash
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="40"><br>HTML
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="40"><br>CSS
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"><br>JavaScript
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" height="40"><br>LaTeX
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" title="C" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" title="Python" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" title="Java" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" title="Bash" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" title="HTML" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" title="CSS" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=latex" title="LaTeX" height="40"></td>
+  </tr>
+  <tr>
+    <td align="center">C++</td>
+    <td align="center">C</td>
+    <td align="center">Python</td>
+    <td align="center">Java</td>
+    <td align="center">Bash</td>
+    <td align="center">HTML</td>
+    <td align="center">CSS</td>
+    <td align="center">JavaScript</td>
+    <td align="center">LaTeX</td>
+  </tr>
+</table>
 
 ### ⚙️ Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" height="40"><br>Arduino
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"><br>Linux
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="40"><br>Ubuntu
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ros" title="ROS" height="40"><br>ROS
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" height="40"><br>OpenCV
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" height="40"><br>Raspberry Pi
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40"><br>Docker
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React" height="40"><br>React
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"><br>PostgreSQL
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ros" title="ROS" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" title="React" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"></td>
+  </tr>
+  <tr>
+    <td align="center">Arduino</td>
+    <td align="center">Linux</td>
+    <td align="center">Ubuntu</td>
+    <td align="center">ROS</td>
+    <td align="center">OpenCV</td>
+    <td align="center">Raspberry Pi</td>
+    <td align="center">Docker</td>
+    <td align="center">React</td>
+    <td align="center">PostgreSQL</td>
+  </tr>
+</table>
 
 ### 💻 Software
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" height="40"><br>MATLAB
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"><br>Git
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"><br>GitHub
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="40"><br>GitLab
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"><br>VS Code
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="40"><br>Visual Studio
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" height="40"><br>AutoCAD
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" height="40"><br>Anaconda
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" height="40"><br>Eclipse
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" height="40"><br>Bitbucket
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" title="Git" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" height="40"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bitbucket" title="Bitbucket" height="40"></td>
+  </tr>
+  <tr>
+    <td align="center">MATLAB</td>
+    <td align="center">Git</td>
+    <td align="center">GitHub</td>
+    <td align="center">GitLab</td>
+    <td align="center">VS Code</td>
+    <td align="center">Visual Studio</td>
+    <td align="center">AutoCAD</td>
+    <td align="center">Anaconda</td>
+    <td align="center">Eclipse</td>
+    <td align="center">Bitbucket</td>
+  </tr>
+</table>
