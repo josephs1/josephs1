@@ -3,8 +3,8 @@
 I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in Computer Engineering from Stevens Institute of Technology as of May, 2025. I also graduated with a minor in Software Engineering. I have a big interest in Robotics Engineering and Embedded Engineering. On this GitHub page, you will find projects from both outside of college as well as from my time during college. These are only a small list of all the projects that I have worked on.
 
 📧 **Email**: <joeystefanoni@gmail.com>  
-🔗 **LinkedIn**: [joseph-stefanoni](https://www.linkedin.com/in/joseph-stefanoni/)  
-🌐 <a href="https://josephs1.github.io/" target="_blank" style="display: inline-block; background-color: #0078d4; color: white; padding: 8px 20px; text-decoration: none; border-radius: 5px; font-weight: 600; font-family: Arial, sans-serif;">Portfolio</a>
+🔗 **LinkedIn**: [joseph-stefanoni-linkedin](https://www.linkedin.com/in/joseph-stefanoni/)  
+🌐 **Portfolio**: [joseph-stefanoni-website](https://josephs1.github.io/)  
 
 ---
 
