@@ -11,7 +11,7 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 ## 🛠️ Technical Skills
 
 ### 🧠 Languages
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" title="C" height="40"></td>
@@ -37,7 +37,7 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 </table>
 
 ### ⚙️ Technologies
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=arduino" title="Arduino" height="40"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"></td>
@@ -63,7 +63,7 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 </table>
 
 ### 💻 Software
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" height="40"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" title="Git" height="40"></td>
