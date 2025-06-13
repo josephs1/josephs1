@@ -10,7 +10,7 @@ LinkedIn: <https://www.linkedin.com/in/joseph-stefanoni/>
 ## Technical Skills 💼
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,vhdl,bash,html,css,js,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,bash,html,css,js,latex)](https://skillicons.dev)
 
 **Technologies:**
 
