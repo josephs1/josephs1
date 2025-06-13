@@ -5,17 +5,17 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 Email: <joeystefanoni@gmail.com>  
 LinkedIn: <https://www.linkedin.com/in/joseph-stefanoni/>
 
-[//]: <> ([![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&link=https%3A%2F%2Fjferber.netlify.app%2F)](https://jferber.netlify.app/))
+[![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&link=https%3A%2F%2Fjferber.netlify.app%2F)](https://jferber.netlify.app/)
 
 ## Technical Skills 💼
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,vhdl,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,vhdl,bash,html,css,js,latex)](https://skillicons.dev)
 
 **Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,mongodb,postgres,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,linux,ubuntu,ros,opencv,raspberrypi,docker,react,postgres)](https://skillicons.dev)
 
 **Softwares:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,git,github,gitlab,vscode,visualstudio,autocad,anaconda,eclipse,bitbucket)](https://skillicons.dev)
