@@ -4,7 +4,7 @@ I am Joseph Stefanoni. I have just graduated with a Bachelor's of Engineering in
 
 📧 **Email**: <joeystefanoni@gmail.com>  
 🔗 **LinkedIn**: [joseph-stefanoni](https://www.linkedin.com/in/joseph-stefanoni/)  
-🌐 [![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&link=https%3A%2F%2Fjferber.netlify.app%2F)](https://jferber.netlify.app/)
+🌐 🌐 <a href="https://josephs1.github.io/" target="_blank" style="display: inline-block; background-color: #0078d4; color: white; padding: 8px 20px; text-decoration: none; border-radius: 5px; font-weight: 600; font-family: Arial, sans-serif;">Portfolio</a>
 
 ---
 
